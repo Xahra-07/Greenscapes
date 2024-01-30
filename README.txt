@@ -4,9 +4,15 @@ The Green Livelihood System is a comprehensive solution designed to assess the e
 
 # Key Features
 
-- Data collection from environmental sensors including CO2 levels, energy consumption, and transportation emissions.
+- Data (carbon monoxide (CO) and Nitrogen oxide (NOx) levels) collection from the Aeroqual Series 500 Portable Monitor.
+- Python scripts on the Single-board computer collect and store data from the Aeroqual Series 500 via USB cables.
 - Integration with Microsoft Azure for data storage, processing, and analysis.
 - Utilization of Power BI for data visualization and reporting.
 - Scalability for deploying multiple sensor units across different urban locations.
 - Real-time monitoring and predictive analytics for informed decision-making.
 
+Benefits
+1.	Go green Environmental Impact.
+2.	Data-Driven Decision-Making.
+3.	Scalability and Flexibility.
+4.	Integration with Microsoft Azure to reduce carbon footprints.
